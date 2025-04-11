@@ -1,0 +1,147 @@
+Product 
+BI tool working properly
+cahnge in metric calculation
+Grdaual/ Sudden / Seasonality (time duration)
+segmentation (region, android vs iphone , old vs new customer)
+
+Internal factors
+
+Bugs
+Ongoing A/B testing
+UI Changes
+New Feature Cannabalization
+Pricing change
+Broken data pipeline
+New business decision
+
+External factors
+
+Govt new law regulation
+New competitior (lucarative discounts)
+Natural Calamity
+Protests/ Strike
+Negative PR issues
+Economic Downturn
+
+After that go to funnel analysis
+
+Create user flow
+Then list down the metrics for them
+
+Build Hypothesis like Less options, No preferres mode of payment, High fares 
+Then give solution:  Rider mile points to reddem points
+
+
+-----------------------------------------------------------------------------------
+
+Improvement in Uber
+
+From Riders POV:
+
+ 1. Predictive Ride Scheduling - Let users schedule a ride based on their calendar or routine (e.g., “Schedule ride for every weekday at 8 AM to work”). Similar to autopay
+
+From Drivers POV:
+ 
+ 1. Sensors in car to maintain the quality of car
+ 2. A common gathering location near office, to avoid traffic 
+ 3. Dynamic Pool Matching - Use smarter matching algorithms for Uber Pool to optimize time and increase match rates during low-demand hours.
+
+-----------------------------------------------------------------------------------
+
+Improvement in Zomato
+
+1. Split the Bill Feature - If ordering in a group, let users split the bill within the app itself (like UPI split).
+2. Video Reviews - Let users upload short videos of their food/dining experience, which helps engagement.
+3. Shared food delivery in nearby area - Allow riders to pickup food for 2 people residing nearby.
+
+-----------------------------------------------------------------------------------
+
+Improvement in Netflix
+
+1. Friend Recommendations - See what your friends are watching (opt-in), and get personal picks from your circle — like a “Netflix Social” tab.
+2. Temporary Guest Profiles - Allow someone to use your account with a fresh profile that deletes itself after X days.
+
+-----------------------------------------------------------------------------------
+
+Important Metrics
+
+📈 Growth Metrics
+New Users / Signups
+How many new users are joining the platform.
+
+Activation Rate
+% of users who complete a key onboarding step or experience the product’s value.
+
+Acquisition Source
+Where users are coming from — organic, paid, referrals, etc.
+
+K-Factor (Virality)
+How effectively existing users bring in new users.
+
+⚡ Engagement Metrics
+Daily Active Users (DAU)
+Number of unique users using the product daily.
+
+Monthly Active Users (MAU)
+Unique users active in a 30-day window.
+
+DAU/MAU Ratio
+Indicates stickiness (i.e., how often monthly users are coming back daily).
+
+Time Spent per Session
+Measures depth of engagement.
+
+Session Frequency
+How often a user comes back in a given time period.
+
+Feature Usage
+Which features are being used and how often.
+
+🔁 Retention Metrics
+User Retention Rate
+% of users returning after X days (Day 1, Day 7, Day 30 retention, etc.).
+
+Churn Rate
+% of users who stop using the product or cancel subscriptions.
+
+Cohort Analysis
+How groups of users behave over time (e.g., users from January vs. February).
+
+💰 Monetization Metrics
+Customer Lifetime Value (LTV)
+Average revenue expected per user over their lifecycle.
+
+Customer Acquisition Cost (CAC)
+How much it costs to acquire a customer.
+
+LTV/CAC Ratio
+Helps understand unit economics and profitability.
+
+Average Revenue Per User (ARPU)
+Total revenue ÷ total users.
+
+Conversion Rate
+% of users who take a desired action (free to paid, signup to order, etc.).
+
+Revenue Churn
+% of revenue lost from existing customers.
+
+❤️ Satisfaction & Usability Metrics
+Net Promoter Score (NPS)
+How likely users are to recommend your product (promoters vs detractors).
+
+Customer Satisfaction Score (CSAT)
+Short feedback after key experiences (e.g., “How was your delivery experience?”).
+
+Customer Effort Score (CES)
+How easy or hard it was for a user to complete an action.
+
+App Store / Play Store Ratings
+Public reflection of satisfaction and bugs.
+
+
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
